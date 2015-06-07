@@ -1,0 +1,16 @@
+{
+  "name": "hapi-massive",
+  "version": "1.0.0",
+  "description": "Hapi plugin for massivejs 2.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "juhaelee",
+  "license": "MIT",
+  "devDependencies": {
+    "hapi": "^8.6.1",
+    "hoek": "^2.14.0",
+    "massive": "^2.0.4"
+  }
+}

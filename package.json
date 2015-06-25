@@ -1,14 +1,19 @@
 {
   "name": "hapi-massive",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Hapi plugin for massivejs 2.0",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/juhaelee/hapi-massive.git"
+  },
   "author": "juhaelee",
   "license": "MIT",
   "devDependencies": {
+    "bluebird": "^2.9.30",
     "hapi": "^8.6.1",
     "hoek": "^2.14.0",
     "massive": "^2.0.4"
